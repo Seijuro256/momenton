@@ -1,0 +1,17 @@
+type Employee @model {
+  id: ID!
+  name: String!
+  manager: Manager
+}
+
+type Manager {
+  id: ID!
+  name: String!
+  employees: [Employee!]!
+}
+
+type CEO {
+  id: ID!
+  name: String!
+  staff: [Manager]
+}
