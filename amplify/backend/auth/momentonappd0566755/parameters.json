@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "momentonappd9eac623_identitypool_d9eac623",
+    "identityPoolName": "momentonappd0566755_identitypool_d0566755",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "momentd9eac623",
-    "userPoolName": "momentonappd9eac623_userpool_d9eac623",
+    "resourceNameTruncated": "momentd0566755",
+    "userPoolName": "momentonappd0566755_userpool_d0566755",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "momentd9eac623_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "momentd0566755_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "d9eac623",
-    "resourceName": "momentonappd9eac623",
+    "sharedId": "d0566755",
+    "resourceName": "momentonappd0566755",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [

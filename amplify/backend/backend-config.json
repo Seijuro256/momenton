@@ -1,6 +1,6 @@
 {
   "auth": {
-    "momentonappd9eac623": {
+    "momentonappd0566755": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -25,5 +25,10 @@
       }
     }
   },
-  "storage": {}
+  "storage": {
+    "tableCreation": {
+      "service": "DynamoDB",
+      "providerPlugin": "awscloudformation"
+    }
+  }
 }

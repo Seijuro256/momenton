@@ -1,0 +1,5 @@
+{
+    "tableName": "managers",
+    "partitionKeyName": "managerId",
+    "partitionKeyType": "N"
+}
