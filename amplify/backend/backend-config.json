@@ -1,6 +1,6 @@
 {
   "auth": {
-    "momentonappd0566755": {
+    "momentonapp78781199": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

@@ -4,13 +4,13 @@ type Employee @model {
   manager: Manager
 }
 
-type Manager {
+type Manager @model {
   id: ID!
   name: String!
   employees: [Employee!]!
 }
 
-type CEO {
+type CEO @model {
   id: ID!
   name: String!
   staff: [Manager]
