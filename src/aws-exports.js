@@ -11,14 +11,7 @@ const awsmobile = {
     "aws_appsync_graphqlEndpoint": "https://t3lern6eczberefiucuykxkliu.appsync-api.us-east-2.amazonaws.com/graphql",
     "aws_appsync_region": "us-east-2",
     "aws_appsync_authenticationType": "API_KEY",
-    "aws_appsync_apiKey": "da2-osalfibn2zdtpp47byakr3li7a",
-    "aws_dynamodb_all_tables_region": "us-east-2",
-    "aws_dynamodb_table_schemas": [
-        {
-            "tableName": "managers-dev",
-            "region": "us-east-2"
-        }
-    ]
+    "aws_appsync_apiKey": "da2-osalfibn2zdtpp47byakr3li7a"
 };
 
 

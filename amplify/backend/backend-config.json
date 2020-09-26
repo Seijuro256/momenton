@@ -25,10 +25,5 @@
       }
     }
   },
-  "storage": {
-    "tableCreation": {
-      "service": "DynamoDB",
-      "providerPlugin": "awscloudformation"
-    }
-  }
+  "storage": {}
 }
